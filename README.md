@@ -1,3 +1,3 @@
 # Intermediate CG Final Project
 
-sorry github hates me 
+tif files minus 3 that were too big to commit (over 100mb) are all there hopefully
